@@ -5,14 +5,19 @@ This project focuses on forecasting the Gross State Domestic Product (GSDP) of M
 Data Collection & Preprocessing: Cleaning and structuring GSDP data for analysis.
 
  Exploratory Data Analysis (EDA): Identifying trends, seasonality, and patterns in economic growth.
+ 
 Time Series Modeling: Implementing ARIMA,LSTM Neural Network.
+
 Visualization & Insights: Interactive graphs and reports for better understanding of economic trends.
 
 Python – Used for time series analysis, forecasting, and visualization. 
 # The following Python libraries were utilized:
 Pandas & NumPy – For data manipulation and pre-processing.
+
 Matplotlib & Seaborn – For graphical representation of trends and patterns.
+
 Statsmodels – For statistical analysis and ARIMA modelling.
+
 TensorFlow & Keras – For building and training the LSTM deep learning model.
 
 # Objectives
