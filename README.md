@@ -1,4 +1,4 @@
-# Economic-Growth-Maharashtra
+# Economic Growth of Maharashtra
 # Forecasting GSDP of Maharashtra State Using Time Series Analysis
 This project focuses on forecasting the Gross State Domestic Product (GSDP) of Maharashtra using time series analysis techniques. By leveraging historical economic data, we apply various statistical and machine learning models to predict future economic trends.
 # Key Features:
